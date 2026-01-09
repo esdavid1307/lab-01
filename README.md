@@ -7,6 +7,8 @@
 
 ## References and Resources
 
+Completed lab is inside  app folder > src > main > java/com/example/myapplication
+
 List any resources used here, or simply put `NA` if not applicable.
 
 ## Verbal Collaboration
