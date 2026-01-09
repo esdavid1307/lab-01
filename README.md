@@ -2,12 +2,12 @@
 
 ## Student Details
 
-- **Full Name:** `<Enter name>`
-- **CCID:** `<Enter ccid>`
+- **Full Name:** `Edwin Shaiju David`
+- **CCID:** `ESDAVID`
 
 ## References and Resources
 
-List any resources used here, or simply put `N/A` if not applicable.
+List any resources used here, or simply put `NA` if not applicable.
 
 ## Verbal Collaboration
 
